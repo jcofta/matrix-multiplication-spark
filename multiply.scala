@@ -44,6 +44,5 @@ object Multiply
         //396
 
         sc.stop()
-
     }
 }
